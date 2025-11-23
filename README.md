@@ -1,1 +1,1 @@
-Just starting to play with scripting :)
+some rough codes , for practice!
